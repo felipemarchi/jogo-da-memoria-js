@@ -1,6 +1,6 @@
 function testefelipe() {
 	const url =
-        'https://vendedor-homolog.maisqueum.app.br/.well-known/assetlinks.json'
+        'https://vendedor.maisqueum.app.br/.well-known/assetlinks.json'
       window.location.href = url
 }
 
